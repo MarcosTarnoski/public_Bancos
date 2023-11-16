@@ -1,0 +1,6 @@
+pip install selenium 4.1.3
+pip install pandas 1.3.5
+pip install openpyxl 3.0.9
+pip install xlrd
+pip install msoffcrypto-tool
+pip install pywinauto
